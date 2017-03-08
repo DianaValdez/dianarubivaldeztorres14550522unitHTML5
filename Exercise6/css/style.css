@@ -1,0 +1,38 @@
+body{
+	background:  #ff8a80;
+	color: white;
+
+	
+}
+.block{
+	
+	border-style: solid;
+	border-width: 4px;
+	width: 310px;
+	height: 300px;
+	margin: 0 auto;
+
+}
+img{
+	width: 50px;
+	height: 50px;
+}
+.left{
+	float: left;
+	border-right: solid;
+	text-align: left;
+	padding-left: 60px;
+	padding-right: 10px;
+}
+.right{
+	float: left;
+	border-left: solid;
+	text-align: left;
+}
+p{
+	padding: 0;
+}
+.Contact{
+	clear: both;
+	text-align: center;
+}

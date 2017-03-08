@@ -1,0 +1,44 @@
+#title1{
+	background-color: yellow;
+	color: black;
+	text-align: center;
+
+
+}
+.Menu{
+	float:left;
+	background: white;
+	vertical-align: left;
+	padding-right: 100px;
+	
+
+}
+
+.block_cent{
+	float: left;
+	background: white;
+	border-left: solid green;
+	text-align: left;
+	padding-left: 10px;
+}
+.block_right{
+	float:right;
+	background: white;
+	border-style: dotted;
+	border-width: 4px;
+	text-align: right;
+	padding-right: 10px;
+
+}
+.block_bottom{
+	clear: both;
+	text-align: center;
+	
+}
+.container{
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+	
+}

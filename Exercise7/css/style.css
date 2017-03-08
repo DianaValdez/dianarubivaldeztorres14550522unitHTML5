@@ -1,0 +1,41 @@
+#Vitae{
+
+padding-left: 400px;
+padding-right: 400px;
+
+margin: 0 auto;
+}
+table{
+	border-style: solid;
+	border-width: 4px;
+	font-size: 20px;
+
+
+}
+#titlevitae{
+	text-align: center;
+	padding-left: 10px;
+	margin-right: 20px;
+	background-color: #90a4ae;
+	color: #283593;
+
+}
+h2{
+	color: #b71c1c;
+	letter-spacing: 5px;
+
+}
+td{
+	width: 270px;
+	height: 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: lighter;
+}
+.neg{
+	font-weight: bolder;
+	font-size: 25px;
+
+}

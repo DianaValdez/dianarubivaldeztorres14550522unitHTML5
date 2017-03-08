@@ -1,0 +1,71 @@
+body{
+	margin: 200px;
+	margin-top: 10px;
+
+	}
+div.lexique
+{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    -o-column-count: 3;
+    -ms-column-count: 3;
+    column-count: 3;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div.set
+{
+    display: inline-block;
+    width: 100%;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    -o-column-break-inside: avoid;
+    -ms-column-break-inside: avoid;
+    column-break-inside: avoid;
+}
+div.lexique
+{
+    
+    -webkit-column-rule: 1px dotted #ccc;
+    -moz-column-rule: 1px dotted #ccc;
+    -o-column-rule: 1px dotted #ccc;
+    -ms-column-rule: 1px dotted #ccc;
+    column-rule: 1px dotted #ccc;
+}
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+.embed-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+li{
+	list-style: none;
+}
+.title{
+	background: white;
+	color:black;
+	text-align: center;
+	padding: 20px;
+}
+.borde{
+	background-color: #FFA07A;
+	
+}
+summary{
+	color: #6C3483;
+}
+h3{
+	background: #E9967A;
+}
+div{
+
+	border-radius: 20px;
+}

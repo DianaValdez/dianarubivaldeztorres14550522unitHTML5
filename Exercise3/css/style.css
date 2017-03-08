@@ -1,0 +1,22 @@
+body{
+	background-color: #a7ffeb;
+	margin-left: 200px;
+	margin-right: 200px;
+	align-content: center;
+}
+#mainheadings{
+	text-align: center;
+	background: white;
+}
+#content p{
+	text-decoration: all;
+	color:#004d40;
+}
+img{
+	width: 60em;
+	height: 20em;
+	border: absolute;
+	margin-right:relative;
+	
+
+}
